@@ -1,82 +1,66 @@
-# Retenify
+# Retenify Public Organization Resources
 
-**Predict. Engage. Retain.**  
-Retenify is an advanced SaaS platform designed to help subscription-based businesses reduce churn, retain more customers, and maximize recurring revenue. Our solution combines machine learning, automation, and deep analytics to empower teams to proactively engage users and drive long-term growth.
-
----
-
-## Features
-
-- **Churn Prediction:**  
-  Leverage AI models to identify customers at risk of leaving before they churn.
-
-- **Automated Engagement:**  
-  Launch personalized campaigns—email, in-app messages, push notifications—triggered by real-time user behavior and lifecycle events.
-
-- **Customer Health Scoring:**  
-  Dynamic scoring based on usage data, engagement, and support interactions to help teams focus on high-risk accounts.
-
-- **Segmentation & Cohort Analysis:**  
-  Slice data by plan, region, activity, or custom attributes to uncover retention drivers and optimize engagement.
-
-- **Customizable Dashboards:**  
-  Real-time analytics and visualizations for retention, churn, and cohort trends, all in one place.
-
-- **Integrations:**  
-  Connect seamlessly with CRMs, helpdesks, marketing tools, and data warehouses.
-
-- **Automated Workflows:**  
-  Set up rules for alerts, interventions, or upsell opportunities based on customer behavior.
-
-- **Feedback & NPS Tracking:**  
-  Collect and analyze customer feedback and Net Promoter Scores to close the loop on retention.
-
-- **Role-Based Access Control:**  
-  Secure permissions for admins, managers, and agents.
+Welcome to the **Retenify** GitHub organization!  
+This repository (`.github`) serves as the central place for our organizational profile, guidelines, and resources that apply across all Retenify projects.
 
 ---
 
-## Services
+## About Retenify
 
-- **Onboarding & Setup:**  
-  White-glove onboarding and data integration for a smooth start.
+**Predict. Engage. Retain.**
 
-- **Customer Success:**  
-  Dedicated account management and best-practice guidance.
-
-- **Analytics Consulting:**  
-  Expert help with custom analytics, retention strategies, and data integrations.
-
-- **Support:**  
-  Priority email and chat support, plus a knowledge base and community forum.
+Retenify is an innovative SaaS platform dedicated to helping subscription-based businesses reduce churn, increase customer lifetime value, and drive sustainable growth. We combine machine learning, automation, and deep analytics to empower teams to proactively engage users and build lasting relationships.
 
 ---
 
-## Technology Stack
+## What’s in this Repository?
 
-- **Frontend:** React.js
-- **Backend:** Node.js, Python microservices
-- **Database:** PostgreSQL (Google Cloud SQL)
-- **Cloud:** Google Cloud Platform (GCP)
-- **Security:** Best practices for authentication, privacy, and compliance.
+This repository contains organization-wide files that set the tone for participation and collaboration across all our projects:
+
+- **profile/README.md**  
+  The landing page for the Retenify organization on GitHub, introducing our mission, features, and ways to connect.
+
+- **CODE_OF_CONDUCT.md**  
+  Our community standards and expectations.
+
+- **CONTRIBUTING.md**  
+  Guidelines for contributing to any of our repositories.
+
+- **SECURITY.md**  
+  Responsible disclosure process for security vulnerabilities.
+
+- **ISSUE_TEMPLATE/**  
+  Templates for reporting bugs and requesting features.
+
+- **PULL_REQUEST_TEMPLATE.md**  
+  Expectations for submitting pull requests.
 
 ---
 
-## Use Cases
+## Retenify Platform Highlights
 
-- SaaS companies aiming to reduce churn and boost recurring revenue.
-- Product managers seeking actionable retention insights.
-- Customer success teams automating engagement and interventions.
-- Businesses wanting to centralize and visualize retention analytics.
+- **Churn Prediction & Health Scoring**
+- **Automated Customer Engagement**
+- **Advanced Analytics & Reporting**
+- **Segmentation & Cohort Analysis**
+- **Seamless Integrations (CRM, Helpdesk, Marketing, etc.)**
+- **Secure, Modern Tech Stack**
 
 ---
 
-## Get Started
-
-Contact us for a demo or more information:
+## Connect With Us
 
 - **Website:** [retenify.com](https://retenify.com)
-- **Email:** retenify.tech@outlook.com
+- **Email:** [retenify.tech@outlook.com](mailto:retenify.tech@outlook.com)
+- **LinkedIn:** [Retenify on LinkedIn](https://www.linkedin.com/company/retenify)
 
 ---
-Empowering SaaS teams to turn churn into opportunity and build lasting customer relationships. 
+
+## Get Involved
+
+We welcome collaboration!  
+Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) and [Contributing Guidelines](./CONTRIBUTING.md) before participating in our projects.
+
+---
+
+*Empowering SaaS teams to turn churn into opportunity and build lasting customer relationships.*
