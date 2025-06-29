@@ -1,0 +1,13 @@
+name: "Org-wide Lint Example"
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run a linter (example)
+        run: echo "Add your linter here (e.g., npm run lint, flake8, etc.)"
